@@ -1,0 +1,4 @@
+Dev:
+
+1. profile page
+2. Attachments(img, vid)
